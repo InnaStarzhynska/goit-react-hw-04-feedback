@@ -1,0 +1,16 @@
+.buttons {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+}
+
+.feedbackButton {
+    display: block;
+    padding: 5px 10px;
+    text-transform: capitalize;
+    color: aliceblue;
+    background-color: rgb(198, 72, 72);
+    border: transparent;
+    border-radius: 3px;
+    cursor: pointer;
+}
